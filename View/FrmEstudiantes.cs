@@ -8,10 +8,10 @@ using System.Security.Cryptography;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
-using ControlEscolar.Controller;
-using ControlEscolar.Model;
+using ControlEscolarCore.Controller;
+using ControlEscolarCore.Model;
 using ControlEscolar.Utilities;
-using ControlEscolar.Business;
+using ControlEscolarCore.Business;
 
 namespace ControlEscolar.View
 {

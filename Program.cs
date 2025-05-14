@@ -1,6 +1,7 @@
 using ControlEscolar.View;
 using NLog;
 using ControlEscolar.Utilities;
+using ControlEscolarCore.Utilities;
 using OfficeOpenXml;
 
 namespace ControlEscolar

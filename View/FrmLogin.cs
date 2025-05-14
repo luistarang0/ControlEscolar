@@ -7,8 +7,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
-using ControlEscolar.Business;
+using ControlEscolarCore.Business;
 using ControlEscolar.Utilities;
+using ControlEscolarCore.Utilities;
 using NLog;
 
 namespace ControlEscolar.View
